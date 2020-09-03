@@ -1,0 +1,18 @@
+﻿  Main.cpp
+  Menu.cpp
+  Square.cpp
+  Render.cpp
+D:\C++\Graphic_Objects_Makyca_New\Graphic_Objects_Makyca\Render.cpp(9,23): warning C4018: '<': signed/unsigned mismatch
+D:\C++\Graphic_Objects_Makyca_New\Graphic_Objects_Makyca\Render.cpp(10,24): warning C4018: '<': signed/unsigned mismatch
+D:\C++\Graphic_Objects_Makyca_New\Graphic_Objects_Makyca\Render.cpp(19,23): warning C4018: '<': signed/unsigned mismatch
+D:\C++\Graphic_Objects_Makyca_New\Graphic_Objects_Makyca\Render.cpp(20,24): warning C4018: '<': signed/unsigned mismatch
+D:\C++\Graphic_Objects_Makyca_New\Graphic_Objects_Makyca\Render.cpp(34,9): warning C4018: '>=': signed/unsigned mismatch
+D:\C++\Graphic_Objects_Makyca_New\Graphic_Objects_Makyca\Render.cpp(34,29): warning C4018: '>=': signed/unsigned mismatch
+D:\C++\Graphic_Objects_Makyca_New\Graphic_Objects_Makyca\Render.cpp(63,23): warning C4305: '*=': truncation from 'double' to 'float'
+  Triangle.cpp
+  Generating code
+  159 of 159 functions (100.0%) were compiled.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Graphic_Objects_Makyca.vcxproj -> D:\C++\Graphic_Objects_Makyca_New\Release\Graphic_Objects_Makyca.exe
